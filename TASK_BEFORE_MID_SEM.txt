@@ -1,0 +1,19 @@
+1. Draw a block diagram - covers a unique block. Problem Definition, this dataset ( download) --- we can solve the problem using RNN. 
+
+Write Problem Statement in Block Diagram. 
+
+Write the Features and Labels of the dataset. 
+
+
+Pre processing - 
+
+Training - dimensions, number of hidden layers, input ans output structure. 
+
+Validation - sytem is checked wheter it is overfitted or not, 5% data for validation. 
+loss is how close your prediction is to actual amswer. 
+loss func
+Two Losses:
+one loss for training
+one loss for validation
+
+Testing
